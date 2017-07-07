@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "dev_myapps_login",
+    "password": "postgres",
+    "name": "db",
+    "connector": "postgresql",
+    "user": "postgres"
+  }
+}
